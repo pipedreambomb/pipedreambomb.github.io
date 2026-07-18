@@ -1,0 +1,19 @@
+title: George Nixon
+description: >-
+  Practical fixes, small opinions, and things worked out with the help of LLMs.
+author: George Nixon
+email: g@georgenixon.co.uk
+url: "https://georgenixon.co.uk"
+
+theme: minima
+github_username: pipedreambomb
+
+plugins:
+  - jekyll-feed
+
+# Exclude non-site files from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
