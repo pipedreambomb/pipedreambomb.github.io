@@ -1,0 +1,11 @@
+[build]
+  publish = "_site"
+  command = "bundle exec jekyll build"
+
+[build.environment]
+  RUBY_VERSION = "3.2"
+
+# Deploy Previews build from PR branches automatically once the site is
+# connected in Netlify — this repo keeps GitHub Pages as production.
+[context.deploy-preview]
+  command = "bundle exec jekyll build"
