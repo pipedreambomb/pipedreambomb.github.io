@@ -1,4 +1,4 @@
-source for my personal blog, [georgenixon.co.uk](http://georgenixon.co.uk). it's a [Jekyll](https://jekyllrb.com/) site using the [minima](https://github.com/jekyll/minima) theme, built and served by GitHub Pages.
+source for my personal blog, [georgenixon.co.uk](http://georgenixon.co.uk). it's a [Jekyll](https://jekyllrb.com/) site using the [Hacker](https://github.com/pages-themes/hacker) theme, built and served by GitHub Pages.
 
 ## running locally
 
