@@ -1,4 +1,21 @@
-a page hacked together for my personal website, [georgenixon.co.uk](http://georgenixon.co.uk). you can find out more info on the stuff I hacked it out of below:
+source for my personal blog, [georgenixon.co.uk](http://georgenixon.co.uk). it's a [Jekyll](https://jekyllrb.com/) site using the [Hacker](https://github.com/pages-themes/hacker) theme, built and served by GitHub Pages.
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## running locally
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+## posting
+
+drop a new file in `_posts/`, named `YYYY-MM-DD-title.md`, with front matter like:
+
+```
+---
+layout: post
+title: "Title"
+date: YYYY-MM-DD HH:MM:SS +0100
+---
+```
 

@@ -1,0 +1,19 @@
+title: George Nixon
+description: >-
+  Things I've figured out, so you don't have to. Or that an LLM figured out with me, and I'm stealing the credit.
+author: George Nixon
+email: g@georgenixon.co.uk
+url: "https://georgenixon.co.uk"
+
+theme: jekyll-theme-hacker
+github_username: pipedreambomb
+
+plugins:
+  - jekyll-feed
+
+# Exclude non-site files from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
