@@ -5,7 +5,7 @@ author: George Nixon
 email: g@georgenixon.co.uk
 url: "https://georgenixon.co.uk"
 
-theme: minima
+theme: jekyll-theme-hacker
 github_username: pipedreambomb
 
 plugins:
